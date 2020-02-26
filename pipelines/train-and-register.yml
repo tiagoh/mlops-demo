@@ -1,8 +1,8 @@
 variables:
   ml-workspace-connection: 'aml-workspace-connection'
-  ml-workspace-name: 'csamlfsi-ws'
-  ml-workspace-rg: 'csamlfsi-rg'
-  ml-compute-name: 'amlcluster'
+  ml-workspace-name: 'tmvh-westeurope'
+  ml-workspace-rg: 'tiagoh_main_RG'
+  ml-compute-name: 'train-cluster'
   ml-experiment-name: 'german-credit-basic-ci'
   ml-dataset-name: 'german_credit_dataset'
   ml-model-name: 'german-credit-basic-model'
